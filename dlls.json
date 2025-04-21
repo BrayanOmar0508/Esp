@@ -1,0 +1,20 @@
+{
+  "version": "1.0.3",
+  "dlls": [
+    {
+      "name": "Client.dll",
+      "url": "https://github.com/yourusername/yourrepo/releases/download/v1.0.3/Client.dll",
+      "saveAs": "Client.dll"
+    },
+    {
+      "name": "Client2.dll",
+      "url": "https://github.com/yourusername/yourrepo/releases/download/v1.0.3/Client2.dll",
+      "saveAs": "Client2.dll"
+    },
+    {
+      "name": "cimgui.dll",
+      "url": "https://github.com/yourusername/yourrepo/releases/download/v1.0.3/cimgui.dll",
+      "saveAs": "cimgui.dll"
+    }
+  ]
+}
