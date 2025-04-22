@@ -3,17 +3,17 @@
   "dlls": [
     {
       "name": "Client.dll",
-      "url": "https://github.com/yourusername/yourrepo/releases/download/v1.0.3/Client.dll",
+      "url": "https://cdn.glitch.me/0db8a6e5-43fe-4d70-931b-7fc112686e9c/Client.dll?v=1745279905876",
       "saveAs": "Client.dll"
     },
     {
-      "name": "Client2.dll",
-      "url": "https://github.com/yourusername/yourrepo/releases/download/v1.0.3/Client2.dll",
+      "name": "AotBst.dll",
+      "url": "https://cdn.glitch.global/0db8a6e5-43fe-4d70-931b-7fc112686e9c/AotBst.dll?v=1745279984693",
       "saveAs": "Client2.dll"
     },
     {
       "name": "cimgui.dll",
-      "url": "https://github.com/yourusername/yourrepo/releases/download/v1.0.3/cimgui.dll",
+      "url": "https://cdn.glitch.global/0db8a6e5-43fe-4d70-931b-7fc112686e9c/cimgui.dll?v=1745279882596",
       "saveAs": "cimgui.dll"
     }
   ]
