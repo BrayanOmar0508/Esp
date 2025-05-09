@@ -1,19 +1,19 @@
 {
-  "Version": "1.1",
+  "Version": "1.2",
   "dlls": [
     {
       "Name": "Client.dll",
-      "Url": "https://cdn.glitch.me/0db8a6e5-43fe-4d70-931b-7fc112686e9c/Client.dll?v=1745279905876",
+      "Url": "https://files.catbox.moe/xtdg6d.dll",
       "SaveAs": "Client.dll"
     },
     {
       "Name": "AotBst.dll",
-      "Url": "https://cdn.glitch.global/0db8a6e5-43fe-4d70-931b-7fc112686e9c/AotBst.dll?v=1745279984693",
+      "Url": "https://files.catbox.moe/0qvg3h.dll",
       "SaveAs": "AotBst.dll"
     },
     {
       "Name": "cimgui.dll",
-      "Url": "https://cdn.glitch.global/0db8a6e5-43fe-4d70-931b-7fc112686e9c/cimgui.dll?v=1745279882596",
+      "Url": "https://files.catbox.moe/1rj2au.dll",
       "SaveAs": "cimgui.dll"
     }
   ]
